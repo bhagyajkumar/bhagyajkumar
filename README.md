@@ -96,13 +96,11 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
 <a href = "https://instagram.com/deltawing.0700">
     <p>
         <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
-        <h2>Deltawing.0700</h3>
     </p>
 </a>
 
 <a href = "https://www.linkedin.com/in/bhagyajkumar/">
     <p>
         <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-        <h2>/in/bhagyajkumar/</h2>
     </p>
 </a>
