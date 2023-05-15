@@ -1,15 +1,108 @@
+### Hey there 👋, Welcome to GitHub Profile
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deltawing.0700) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagyajkumar) 
+<p>
+    <img src="https://github.com/bhagyajkumar/bhagyajkumar/blob/main/assets/image.png?raw=true" | width = 250 align="right">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
+
+![](https://komarev.com/ghpvc/?username=bhagyajkumar&color=010040&style=flat-square)<br>
+
+<img src='https://img.shields.io/badge/Web%20Developer-5555555?style=for-the-badge&logoColor=green'>
+
+I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Science and Engineering from Cochin University of Science and Technology.
+
+- I am interested in `DevOps` and `Web3`
+- Ask me about `Python` and `Web Development`
+  
+## My Tech Stack
+
+### Languages
+
+<table>
+    <tbody>
+        <tr vallign="top">
+            <td width="25%" align="center">
+                <span>Python</span><br><br><br>
+                <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+            </td>
+            <td width="25%" align="center">
+                <span>Javascript</span><br><br><br>
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
+            </td>
+            <td width="25%" align="center">
+                <span>Java</span><br><br><br>
+                <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+            </td>
+        </tr>
+    </tbody>
+</table> 
+
+### Frameworks
+
+<table>
+    <tbody>
+        <tr vallign="top">
+            <td width="25%" align="center">
+                <span>Django</span><br><br><br>
+                <img height="64px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4">
+            </td>
+            <td width="25%" align="center">
+                <span>React</span><br><br><br>
+                <img height="64px" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp">
+            </td>
+            <td width="25%" align="center">
+                <span>Bootstrap</span><br><br><br>
+                <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+            </td>
+                <td width="25%" align="center">
+                <span>Flask</span><br><br><br>
+                <img height="64px" src="https://d33wubrfki0l68.cloudfront.net/f56ad0f0dcecea5eefc91d3e7205190003158142/972e2/blog/python-api-deployment-rstudio-flask/flask.png">
+            </td>
+        </tr>
+    </tbody>
+</table> 
+
+
+### Others
+
+<table>
+    <tbody>
+        <tr vallign="top">
+            <td width="25%" align="center">
+                <span>Git</span><br><br><br>
+                <img height="64px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+            </td>
+            <td width="25%" align="center">
+                <span>Linux</span><br><br><br>
+                <img height="64px" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png">
+            </td>
+            <td width="25%" align="center">
+                <span>Docker</span><br><br><br>
+                <img height="64px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## My GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=bhagyajkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhagyajkumar&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyajkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=bhagyajkumar&icon=7&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Socials
+
+<a href = "https://instagram.com/deltawing.0700">
+    <p>
+        <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
+        <h2>Deltawing.0700</h3>
+    </p>
+</a>
+
+<a href = "https://www.linkedin.com/in/bhagyajkumar/">
+    <p>
+        <img width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+        <h2>/in/bhagyajkumar/</h2>
+    </p>
+</a>
