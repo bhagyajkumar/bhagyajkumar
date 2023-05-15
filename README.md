@@ -86,16 +86,11 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
 
 ## My GitHub Stats
 
-<!--START_SECTION:activity-->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bhagyajkumar&theme=react" width="80%">
 
-<!--END_SECTION:activity-->
+<img src="https://github-readme-stats.vercel.app/api?username=bhagyajkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="80%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhagyajkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=true" width="80%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyajkumar&theme=merko&hide_border=false" width="80%">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyajkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="80%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyajkumar&langs_count=8&theme=dark&hide_progress=true" width="80%">
 
 
 ## Socials
