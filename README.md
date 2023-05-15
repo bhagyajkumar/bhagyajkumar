@@ -86,6 +86,10 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
 
 ## My GitHub Stats
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=bhagyajkumar&theme=merko&hide_border=false&include_all_commits=true&count_private=true" width="80%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyajkumar&theme=merko&hide_border=false" width="80%">
