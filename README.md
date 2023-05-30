@@ -84,12 +84,6 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
     </tbody>
 </table>
 
-## My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhagyajkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="80%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyajkumar&langs_count=8&theme=dark&hide_progress=true" width="80%">
-
 
 ## Socials
 
