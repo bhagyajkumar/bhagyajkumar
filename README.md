@@ -1,4 +1,4 @@
-### Hey there 👋, Welcome to GitHub Profile
+### Hey there 👋, Welcome to my GitHub Profile
 
 <p>
     <img src="https://github.com/bhagyajkumar/bhagyajkumar/blob/main/assets/image.png?raw=true" | width = 250 align="right">
