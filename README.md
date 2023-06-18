@@ -53,6 +53,9 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
             <td width="25%" align="center">
                 <span>Bootstrap</span><br><br><br>
                 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+            <td width="25%" align="center">
+                <span>Tailwind CSS</span><br><br><br>
+                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
             </td>
                 <td width="25%" align="center">
                 <span>Flask</span><br><br><br>
