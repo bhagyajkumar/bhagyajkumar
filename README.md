@@ -42,24 +42,24 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
 <table>
     <tbody>
         <tr vallign="top">
-            <td width="25%" align="center">
+            <td width="20%" align="center">
                 <span>Django</span><br><br><br>
                 <img height="64px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4">
             </td>
-            <td width="25%" align="center">
+            <td width="20%" align="center">
                 <span>React</span><br><br><br>
                 <img height="64px" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp">
             </td>
-            <td width="25%" align="center">
+            <td width="20%" align="center">
                 <span>Bootstrap</span><br><br><br>
                 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
-            <td width="25%" align="center">
+            <td width="20%" align="center">
                 <span>Tailwind CSS</span><br><br><br>
-                <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+                <img width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
             </td>
-                <td width="25%" align="center">
+                <td width="20%" align="center">
                 <span>Flask</span><br><br><br>
-                <img height="64px" src="https://d33wubrfki0l68.cloudfront.net/f56ad0f0dcecea5eefc91d3e7205190003158142/972e2/blog/python-api-deployment-rstudio-flask/flask.png">
+                <img height="64px" width="100%" src="https://d33wubrfki0l68.cloudfront.net/f56ad0f0dcecea5eefc91d3e7205190003158142/972e2/blog/python-api-deployment-rstudio-flask/flask.png">
             </td>
         </tr>
     </tbody>
