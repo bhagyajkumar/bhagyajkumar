@@ -21,15 +21,15 @@ I am **BHAGYAJ**. I am currently pursuing my undergraduate degree in Computer Sc
 <table>
     <tbody>
         <tr vallign="top">
-            <td width="25%" align="center">
+            <td width="33%" align="center">
                 <span>Python</span><br><br><br>
                 <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
             </td>
-            <td width="25%" align="center">
+            <td width="33%" align="center">
                 <span>Javascript</span><br><br><br>
                 <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
             </td>
-            <td width="25%" align="center">
+            <td width="33%" align="center">
                 <span>Java</span><br><br><br>
                 <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
             </td>
