@@ -37,3 +37,4 @@ docker run -d \
 
 # Notify the user
 echo "Docker container '$CONTAINER_NAME' is being started with the specified configuration."
+echo "follow link: http://localhost:$PORT1"
