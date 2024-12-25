@@ -4,13 +4,10 @@
 read -p "Enter container name (default: firefox): " CONTAINER_NAME
 CONTAINER_NAME=${CONTAINER_NAME:-firefox}
 
-read -p "Enter PUID (default: 1000): " PUID
 PUID=${PUID:-1000}
 
-read -p "Enter PGID (default: 1000): " PGID
 PGID=${PGID:-1000}
 
-read -p "Enter Timezone (default: Etc/UTC): " TZ
 TZ=${TZ:-Etc/UTC}
 
 read -p "Enter Firefox CLI URL (default: https://google.com/): " FIREFOX_CLI
