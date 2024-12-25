@@ -1,2 +1,2 @@
-sudo docker stop firefox
+sudo docker stop firefox && \
 sudo docker rm firefox
